@@ -1,11 +1,9 @@
 """
 COMP 163 - Project 2: Character Abilities Showcase
-Name: [Your Name Here]
-Date: [Date]
+Name: Sean Telemaque
+Date: 11-14-2025
 
-AI Usage: [Document any AI assistance used]
-Example: AI helped with inheritance structure and method overriding concepts
-"""
+AI Usage: Used ChatGPT for debugging, assistance with subclass, overriding.
 
 # ============================================================================
 # PROVIDED BATTLE SYSTEM (DO NOT MODIFY)
