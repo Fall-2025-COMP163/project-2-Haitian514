@@ -145,3 +145,17 @@ Feel free to add your own creative touches for bonus points:
 - Additional character classes beyond the three required
 - More weapon types with different properties
 - Enhanced special abilities with unique effects
+
+---------------------------------------------
+## Bonus Creative Features Added:
+
+- I added a Ice mage subclass with a special ability(Ice Blast).
+
+## AI Usage:
+- Used ChatGPT for debugging, assistance with subclass, overriding.
+
+## How to run:
+- Open terminal/command prompt in the directory containing your project2.py file.
+
+- Run the program using Python 3:
+
